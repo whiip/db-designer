@@ -1,0 +1,1 @@
+module.exports.MySqlStorage = require('./mysql');

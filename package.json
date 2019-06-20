@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/whiip/db-designer/issues"
   },
-  "homepage": "https://github.com/whiip/db-designer#readme"
+  "homepage": "https://github.com/whiip/db-designer#readme",
+  "dependencies": {
+    "async": "^3.0.1",
+    "js-yaml": "^3.13.1",
+    "yargs": "^13.2.4"
+  }
 }

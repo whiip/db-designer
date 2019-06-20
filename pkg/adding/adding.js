@@ -1,0 +1,1 @@
+module.exports.migrationFile = require('./add-migration-file');
