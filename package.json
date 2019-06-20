@@ -1,0 +1,19 @@
+{
+  "name": "db-designer",
+  "version": "2.0.0",
+  "description": "Toolset that helps developers design databases for their applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiip/db-designer.git"
+  },
+  "author": "Simon Yates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whiip/db-designer/issues"
+  },
+  "homepage": "https://github.com/whiip/db-designer#readme"
+}
