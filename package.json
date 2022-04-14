@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/whiip/db-designer#readme",
   "dependencies": {
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "js-yaml": "^3.13.1",
     "yargs": "^13.2.4"
   }
